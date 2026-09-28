@@ -1,16 +1,34 @@
-## Hi there 👋
+# Izaan Shumaiz
 
-<!--
-**izaan-sh/izaan-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cybersecurity Graduate | SOC / Blue Team**
 
-Here are some ideas to get you started:
+Cybersecurity graduate focused on defensive security, security monitoring, SIEM, threat detection, and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Interest
+
+* SOC Operations
+* SIEM & Security Monitoring
+* Threat Detection
+* Incident Response
+* Cloud Security
+* Digital Forensics
+
+## Tools & Technologies
+
+**SIEM / Monitoring:** Wazuh, Microsoft Sentinel, KQL, Sysmon
+
+**Security:** Suricata, Nmap, Nessus
+
+**Digital Forensics:** Autopsy, Magnet AXIOM
+
+**Cloud:** Microsoft Azure, AWS
+
+## Projects
+
+* **Microsoft Sentinel SOC Lab** — SIEM deployment, KQL detection, incident investigation, and automated IP blocking
+* **Wazuh Home SOC Lab** — Security monitoring, Sysmon telemetry, detection rules, FIM, and Active Response
+* **More projects coming soon**
+
+## Connect
+
+* [LinkedIn](YOUR-LINKEDIN-URL)
