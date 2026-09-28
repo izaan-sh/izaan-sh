@@ -31,4 +31,4 @@ Cybersecurity graduate focused on defensive security, security monitoring, SIEM,
 
 ## Connect
 
-* [LinkedIn](YOUR-LINKEDIN-URL)
+* [LinkedIn](https://www.linkedin.com/in/izaanshumaiz/)
