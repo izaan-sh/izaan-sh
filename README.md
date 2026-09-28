@@ -48,7 +48,7 @@ Built a cloud-based SOC environment in Microsoft Azure using Microsoft Sentinel 
 * Troubleshot RBAC permissions, Logic App entity payloads, expressions, and NSG rule priorities
 * Built a Sentinel workbook to visualize authentication failures, incidents, source IPs, targeted accounts, and GeoIP-enriched activity
 
-**[View Project →](./Cloud-SOC-Lab-Microsoft-Sentinel)**
+**[View Project →](https://github.com/izaan-sh/Cloud-SOC-Lab-Microsoft-Sentinel)**
 
 ---
 
