@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1f3a,100:0ea5a4&height=200&section=header&text=Izaan%20Shumaiz&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Graduate%20%7C%20SOC%20%2F%20Blue%20Team&descSize=20&descAlignY=60" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5A4&center=true&vCenter=true&width=700&lines=SIEM+%7C+Detection+Engineering+%7C+Incident+Response;Building+SOC+labs+that+detect%2C+respond+and+recover;Cyber+Security+%2B+AI+%7C+Murdoch+University+Dubai" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5A4&center=true&vCenter=true&width=700&lines=SIEM+%7C+Detection+Engineering+%7C+Incident+Response;Building+SOC+labs+that+detect%2C+respond+and+recover;Cyber+Security+%2B+AI+Graduate+%7C+Dubai%2C+UAE" alt="typing" />
 </a>
 
 <br>
@@ -145,23 +145,30 @@ Network Security · Security Risk & Compliance · Penetration Testing · Digital
 
 ---
 
-## 📊 GitHub Stats
+## ⚠️ Disclaimer
 
-<div align="center">
+Disclaimer: All security testing was performed in isolated lab environments or on systems I own or was authorised to test. SOC simulations use synthetic or anonymized data.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=izaan-sh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izaan-sh&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
-
-</div>
 
 ---
 
+<div align="center">
+
 ## 📫 Let's Connect
 
-I'm looking for **SOC analyst and blue team opportunities**. Happy to talk detection engineering, SIEM, or GRC.
+**Open to opportunities in SOC operations, blue team, detection engineering, and security GRC.**  
+Always happy to talk security, SIEM, or AI.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-izaanshumaiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaanshumaiz)
-[![Email](https://img.shields.io/badge/Email-Izaanshumaiz100@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Izaanshumaiz100@gmail.com)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaanshumaiz)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Izaanshumaiz100@gmail.com)
+
+<br>
+
+<sub>📍 Dubai, UAE</sub>
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5a4,100:0b1f3a&height=100&section=footer" alt="footer" />
