@@ -79,7 +79,7 @@ Served as Security and Compliance Engineer on a six-person capstone team develop
 * Identified approximately 18% of controls with no corresponding internal policy coverage
 * Applied the institutional Risk Management Framework to track technical, security, and delivery risks
 
-**[View Project →](https://github.com/izaan-sh/ReconX)**
+**[View Project →](https://github.com/izaan-sh/Sedona-llm-vendor-risk-assessment)**
 
 ---
 
@@ -158,5 +158,4 @@ Security Automation, Machine Learning, Security Architectures, Incident Response
 ## 📫 Connect
 
 **LinkedIn:** [linkedin.com/in/izaanshumaiz](https://www.linkedin.com/in/izaanshumaiz)
-
 **Email:** [Izaanshumaiz100@gmail.com](mailto:Izaanshumaiz100@gmail.com)
