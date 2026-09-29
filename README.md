@@ -158,4 +158,5 @@ Security Automation, Machine Learning, Security Architectures, Incident Response
 ## 📫 Connect
 
 **LinkedIn:** [linkedin.com/in/izaanshumaiz](https://www.linkedin.com/in/izaanshumaiz)
+
 **Email:** [Izaanshumaiz100@gmail.com](mailto:Izaanshumaiz100@gmail.com)
