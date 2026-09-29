@@ -79,6 +79,8 @@ Served as Security and Compliance Engineer on a six-person capstone team develop
 * Identified approximately 18% of controls with no corresponding internal policy coverage
 * Applied the institutional Risk Management Framework to track technical, security, and delivery risks
 
+**[View Project →](https://github.com/izaan-sh/ReconX)**
+
 ---
 
 ### ReconX – Automated Reconnaissance & Vulnerability Assessment Tool
@@ -90,6 +92,8 @@ Developed a Python-based reconnaissance and vulnerability assessment tool with a
 * Mapped detected services to known vulnerabilities
 * Generated severity-ranked findings with remediation guidance
 * Reduced the assessment workflow from approximately 30–45 minutes manually to under 5 minutes
+
+**[View Project →](https://github.com/izaan-sh/ReconX)**
 
 ---
 
@@ -104,6 +108,8 @@ Conducted a full black-box penetration test against a vulnerable web server in a
 * Conducted Telnet brute-force testing using Hydra
 * Documented the attack chain, system compromise, and remediation strategies
 
+**[View Project →](https://github.com/izaan-sh/Narcos-2019)**
+
 ---
 
 ### CVE-2024-38063 Exploitation, Detection & Mitigation Lab
@@ -115,6 +121,8 @@ Conducted a controlled vulnerability research and defensive detection lab around
 * Correlated Suricata alerts with Sysmon telemetry
 * Validated detection accuracy following exploitation
 * Tested mitigation strategies including IPv6 disabling, firewall rules, and patch analysis
+
+**[View Project →](https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab)**
 
 ---
 
@@ -128,6 +136,10 @@ Conducted a digital forensic investigation of Windows systems in a simulated cyb
 * Analyzed communications including Discord data
 * Investigated steganography, encrypted containers, and Quasar RAT activity
 * Applied evidence preservation and hash verification throughout the investigation
+
+**[View Project →](https://github.com/izaan-sh/Narcos-2019)**
+
+---
 
 ## 📚 Education
 
