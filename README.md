@@ -108,7 +108,7 @@ Conducted a full black-box penetration test against a vulnerable web server in a
 * Conducted Telnet brute-force testing using Hydra
 * Documented the attack chain, system compromise, and remediation strategies
 
-**[View Project →](https://github.com/izaan-sh/Narcos-2019)**
+**[View Project →](https://github.com/izaan-sh/Web-Server-Penetration-Testing-Assessment)**
 
 ---
 
@@ -147,7 +147,13 @@ Conducted a digital forensic investigation of Windows systems in a simulated cyb
 Murdoch University Dubai
 2023 – 2026
 
-Double major in **Cyber Security and Artificial Intelligence**.
+Completed a Bachelor of Information Technology with a double major in Cyber Security and Artificial Intelligence, with academic and 
+practical work spanning security operations, network security, penetration testing, digital forensics, cloud security, security governance, 
+artificial intelligence, and machine learning. 
+- **Relevant Coursework:** Network Security, Security Risk & Compliance, Penetration Testing, Digital Forensics, Cloud Security, AI Systems, AI 
+Security Automation, Machine Learning, Security Architectures, Incident Response
+
+---
 
 ## 📫 Connect
 
