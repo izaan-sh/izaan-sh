@@ -64,7 +64,7 @@ Built a home SOC environment using Wazuh, Windows endpoints, and Sysmon to pract
 * Configured Wazuh Active Response to automatically block malicious source IPs
 * Investigated controlled security events from telemetry collection through detection, response, and recovery
 
-**[View Project →](./wazuh-home-soc-lab)**
+**[View Project →](https://github.com/izaan-sh/Wazuh-Home-SOC-Lab)**
 
 ---
 
