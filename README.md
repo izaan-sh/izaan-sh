@@ -41,7 +41,7 @@ I learn by building. Most of what is below is a lab where I set up the environme
 
 <div align="center">
 
-<a href="#"> <img width="20" height="20" alt="fortinet-nse-1-certified-in-cybersecurity (1)" src="https://github.com/user-attachments/assets/72e62951-7942-4554-ad4d-9634b9ead302" /> </a>
+<a href="#"> <img width="200" height="200" alt="fortinet-nse-1-certified-in-cybersecurity (1)" src="https://github.com/user-attachments/assets/72e62951-7942-4554-ad4d-9634b9ead302" /> </a>
 
 <a href="#"> <img src="./assets/certifications/fortinet-nse2.png" width="300" alt="Fortinet NSE 2 in Network Security"> </a>
 
