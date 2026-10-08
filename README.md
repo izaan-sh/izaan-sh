@@ -101,6 +101,7 @@ Also: Gobuster, Nikto, WhatWeb, tcpdump
 | :-: | :--- | :--- |
 | ☁️ | **[Cloud SOC Lab: Microsoft Sentinel](https://github.com/izaan-sh/Cloud-SOC-Lab-Microsoft-Sentinel)** | Azure honeypot catching real internet attack traffic. KQL hunting, Sentinel analytics rules, and an automated Logic App + NSG workflow that blocks malicious IPs. |
 | 🛡️ | **[Wazuh Home SOC Lab](https://github.com/izaan-sh/Wazuh-Home-SOC-Lab)** | Wazuh + Sysmon across Windows and Linux. Custom detection rules, FIM, and Active Response that auto-blocks SSH brute force, tested from detection through recovery. |
+| 🕵️ | **[Windows Threat Hunting + IR Lab](https://github.com/izaan-sh/Windows-Threat-Hunting-Incident-Response)** | Simulated a multi-stage Windows attack involving PowerShell, privilege escalation, persistence, and C2 activity. Investigated the attack using Sysmon, Windows logs, Sentinel, and KQL. |
 | 🧪 | **[CVE-2024-38063 Lab](https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab)** | Simulated the exploit from Kali, detected it with Suricata, correlated alerts with Sysmon, and tested mitigations. |
 
 <details>
