@@ -125,6 +125,17 @@ Also: Gobuster, Nikto, WhatWeb, tcpdump
 
 </details>
 
+<details> 
+<summary><b>More on the Windows Threat Hunting & IR Lab</b></summary>
+
+- Built a Windows endpoint telemetry environment using Sysmon, Windows Security logs, PowerShell logging, and Microsoft Sentinel
+- Simulated a controlled multi-stage attack chain from initial access through persistence and post-exploitation activity
+- Used KQL to hunt for authentication abuse, PowerShell execution, account creation, privilege escalation, scheduled tasks, file staging, and network activity
+- Investigated events across multiple telemetry sources and correlated activity into a single attack timeline
+- Documented detection logic, investigation steps, attack evidence, and response considerations
+
+</details>
+
 ### 🟣 GRC & AI Security
 
 | | Project | What I did |
