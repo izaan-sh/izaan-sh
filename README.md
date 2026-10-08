@@ -37,6 +37,19 @@ I learn by building. Most of what is below is a lab where I set up the environme
 | Detection Engineering | Threat Detection | | Cloud Security |
 
 ---
+## 🏅 Certifications
+
+<div align="center">
+
+<a href="#"> <img src="./assets/certifications/fortinet-nse1.png" width="300" alt="Fortinet NSE 1 in Cybersecurity"> </a>
+
+<a href="#"> <img src="./assets/certifications/fortinet-nse2.png" width="300" alt="Fortinet NSE 2 in Network Security"> </a>
+
+</div>
+
+<p align="center"> <b>Fortinet NSE 1 in Cybersecurity</b> &nbsp; • &nbsp; <b>Fortinet NSE 2 in Network Security</b> </p>
+
+---
 
 ## 🛠️ Tools & Technologies
 
