@@ -48,7 +48,7 @@ I learn by building. Most of what is below is a lab where I set up the environme
 
 </div>
 
-<p align="center"> <b>Fortinet NSE 1 in Cybersecurity</b> &nbsp; • &nbsp; <b>Fortinet NSE 2 in Network Security</b> &nbsp; • &nbsp; <b>Cisco Introcution to Cybersecurity</b></p>
+<p align="center"> <b>Fortinet NSE 1, 2, 3 in Cybersecurity</b> &nbsp; • &nbsp; <b>Google Foundations of Cybersecurity</b> &nbsp; • &nbsp; <b>Cisco Introcution to Cybersecurity</b> &nbsp; • &nbsp; <b>TryHackMe PreSecurity</b></p>
 
 ---
 
