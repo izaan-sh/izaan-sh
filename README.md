@@ -43,6 +43,7 @@ I learn by building. Most of what is below is a lab where I set up the environme
 
 <a href="#"> <img width="80" height="80" alt="fortinet-nse-1-certified-in-cybersecurity (1)" src="https://github.com/user-attachments/assets/72e62951-7942-4554-ad4d-9634b9ead302" /> 
 <img width="80" height="80" alt="fortinet-nse-2-certified-in-cybersecurity 1" src="https://github.com/user-attachments/assets/655c08c4-9471-4ccf-875c-395f099867a0" />
+<img width="80" height="80" alt="fortinet-nse-3-certified-in-cybersecurity 1" src="https://github.com/user-attachments/assets/7b0ca8d7-78a1-4990-8835-2ea412571925" />
 <img width="80" height="80" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/12e782f0-1bc5-4585-9e29-c8fa547d1a5c" />
 </a>
 
