@@ -1,4 +1,4 @@
-<!-- Rename to README.md and place in your username/username repo -->
+<img width="735" height="735" alt="opswat-introduction-to-critical-infrastructure-protection-icip" src="https://github.com/user-attachments/assets/11ed7159-cd6b-4256-adfe-a005df79b00b" /><!-- Rename to README.md and place in your username/username repo -->
 
 <div align="center">
 
@@ -45,6 +45,8 @@ I learn by building. Most of what is below is a lab where I set up the environme
 <img width="60" height="60" alt="fortinet-nse-2-certified-in-cybersecurity 1" src="https://github.com/user-attachments/assets/655c08c4-9471-4ccf-875c-395f099867a0" />
 <img width="60" height="60" alt="fortinet-nse-3-certified-in-cybersecurity 1" src="https://github.com/user-attachments/assets/7b0ca8d7-78a1-4990-8835-2ea412571925" />
 <img width="60" height="60" alt="introduction-to-cybersecurity" src="https://github.com/user-attachments/assets/12e782f0-1bc5-4585-9e29-c8fa547d1a5c" />
+<img width="60" height="60" alt="opswat-introduction-to-critical-infrastructure-protection-icip" src="https://github.com/user-attachments/assets/6ae6523f-ddf9-4c30-8131-5a39113058f9" />
+
 </a>
 
 </div>
