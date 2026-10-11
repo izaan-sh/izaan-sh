@@ -51,7 +51,8 @@ I learn by building. Most of what is below is a lab where I set up the environme
 
 </div>
 
-<p align="center"> <b>Fortinet NSE 1, 2, 3 in Cybersecurity</b> &nbsp; • &nbsp; <b>Google Foundations of Cybersecurity</b> &nbsp; • &nbsp; <b>Cisco Introcution to Cybersecurity</b> &nbsp; • &nbsp; <b>TryHackMe PreSecurity</b> &nbsp; • &nbsp; <b>Introduction to Splunk</b> &nbsp; • &nbsp; <b>Introduction to Microsoft Sentinel</b></p>
+<p align="center"> <b>Fortinet NSE 1, 2, 3 in Cybersecurity</b> &nbsp; • &nbsp; <b>Google Foundations of Cybersecurity</b> &nbsp; • &nbsp; <b>Cisco Introcution to Cybersecurity</b> &nbsp; • &nbsp; <b>TryHackMe PreSecurity</b> &nbsp; • &nbsp; <b>Introduction to Splunk</b> &nbsp; • &nbsp; <b>Introduction to Microsoft Sentinel</b> &nbsp; • &nbsp; <b>Opswat Introduction To Critical Infrastructure Protection (ICIP)</b>
+</p>
 
 ---
 
