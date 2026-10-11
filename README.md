@@ -1,4 +1,4 @@
-<img width="735" height="735" alt="opswat-introduction-to-critical-infrastructure-protection-icip" src="https://github.com/user-attachments/assets/11ed7159-cd6b-4256-adfe-a005df79b00b" /><!-- Rename to README.md and place in your username/username repo -->
+<!-- Izaan Shumaiz -->
 
 <div align="center">
 
