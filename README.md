@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-Cybersecurity graduate from **Murdoch University** (double major in Cyber Security and AI) with hands-on experience across **SIEM, security monitoring, threat detection, incident response, penetration testing, digital forensics, cloud security, and security governance**.
+Cybersecurity graduate from **Murdoch University** with a double major in Cyber Security and AI, with hands-on experience across **SIEM, security monitoring, threat detection, incident response, penetration testing, digital forensics, cloud security, and security governance**.
 
 I learn by building. Most of what is below is a lab where I set up the environment, broke it on purpose, then wrote the detection and the response.
 
